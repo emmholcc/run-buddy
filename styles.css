@@ -157,12 +157,22 @@ section h2{
     border-bottom: 3px solid;
 }
 
+.section-p{
+    color:#39a6b2;
+    position:relative;
+    margin:0 auto;
+}
+.section-title{
+    color: #024e76;
+    margin: auto auto 50px auto;
+    position:relative;
+}
 .primary-border{
     color: #fce138
 }
 
 .secondary-boarder{
-    color:#39a6b2
+    border-bottom: solid 3px #39a6b2;
 }
 
 .steps div{
@@ -234,4 +244,13 @@ section h2{
 
 text-right{
     text-align: right;
+}
+
+.reachout-div2{
+    color:#39a6b2;
+
+}
+
+.reachout-title{
+    color: #39a6b2;
 }
