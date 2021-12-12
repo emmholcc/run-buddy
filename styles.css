@@ -157,22 +157,25 @@ section h2{
     border-bottom: 3px solid;
 }
 
-.section-p{
+.what-we-do p{
     color:#39a6b2;
     position:relative;
     margin:0 auto;
 }
 .section-title{
+    font-size:55px;
+    display:inline-block;
+    padding:0 100px 20px 100px;
+    border-bottom:3px solid;
+    margin-bottom: 35px;
     color: #024e76;
-    margin: auto auto 50px auto;
-    position:relative;
 }
 .primary-border{
-    color: #fce138
+    border-bottom: #fce138;
 }
 
 .secondary-boarder{
-    border-bottom: solid 3px #39a6b2;
+    border-bottom: #39a6b2;
 }
 
 .steps div{
@@ -246,11 +249,29 @@ text-right{
     text-align: right;
 }
 
-.reachout-div2{
+.contact-info{
     color:#39a6b2;
-
 }
 
-.reachout-title{
-    color: #39a6b2;
+.contact{
+    text-align:center;
+    background:#024e76;
+}
+
+.contact h2{
+    color:#fce138;
+}
+
+.cont-info iframe{
+    width:400px;
+    height:400px;
+}
+
+.contact-info div{
+    width:410px;
+    display:inline-block;
+    vertical-align:top;
+    text-align:left;
+    margin: 30px 0 0 60px;
+    color:white;
 }
