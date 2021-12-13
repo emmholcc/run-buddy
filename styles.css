@@ -83,8 +83,16 @@ section{
     background-size: cover;
     background-position: center;
     position: relative;
+    margin: 20px;
+    font-size: 20px;
+    background-color: white;
+    color: blue;
 }
+.hero-secondary{
+    background-color: black;
+    color: red;
 
+}
 .hero-form{
     background-color: #fce138;
     color: #024e76;
@@ -275,3 +283,20 @@ text-right{
     margin: 30px 0 0 60px;
     color:white;
 }
+
+.contact-info h3{
+    font-size: 32px;
+    color: #fce138;
+}
+
+.contact-info p, .cont-info address{
+    margin: 20px 0;
+    line-height: 1.5;
+    font-size: 20px;
+    font-style: normal;
+}
+
+.contact-info a{
+    color: #fce138;
+}
+/*REACHOUT STYLE ENDS*/
